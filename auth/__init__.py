@@ -1,0 +1,1 @@
+# auth package - HealthCore authentication module
